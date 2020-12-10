@@ -12,6 +12,7 @@
 - [VsCode](https://code.visualstudio.com/) - Editor de código-fonte.
 
 - [Insomnia](https://insomnia.rest/) - Plaforma de API design e client REST.
+- [Apollo-Server](https://www.apollographql.com/) - Conjunto de ferramentas e produtos para trabalhar com GraphQL.
 ## Acknowledgments
 
 - **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
