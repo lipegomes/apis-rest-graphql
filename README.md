@@ -12,6 +12,7 @@
 - [VsCode](https://code.visualstudio.com/) - Editor de código-fonte.
 
 - [Insomnia](https://insomnia.rest/) - Plaforma de API design e client REST.
+- [ExpressJs](https://expressjs.com/) - Web Frameowork minimalista para Node.js.
 - [Apollo-Server](https://www.apollographql.com/) - Conjunto de ferramentas e produtos para trabalhar com GraphQL.
 ## Acknowledgments
 
